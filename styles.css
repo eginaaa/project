@@ -1,0 +1,18 @@
+.menu{
+    text-decoration: none;
+    color: #000;
+}
+
+.slider{
+    height: 375px;
+}
+
+.line{
+    width: 100px;
+    height: 3px;
+}
+
+.content{
+    text-align: justify;
+    line-height: 20px;
+}
